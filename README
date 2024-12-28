@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This was my final project for CS11 (fall 2024)!
+------------------------------------------------------------------------
+
+PROJECT TITLE: Sushi-Go (Modified)
+
+PURPOSE OF PROJECT: Applying all knowledge of C++ basics in one project. 
+This project definitely reaffirmed and strengthened my understanding of 
+C++ vectors, pointers, and structs. 
+
+VERSION or DATE: December 2024
+
+AUTHOR: Yuxin Zeng
+
+USER INSTRUCTIONS: Run in terminal with the sushi.data file, and have fun!
+Two players is necessary for the game.
