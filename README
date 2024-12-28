@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This was my final project for CS11 (fall 2024)!
+This was my final project for my introduction to CS class (fall 2024)!
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Sushi-Go (Modified)
@@ -10,7 +10,7 @@ C++ vectors, pointers, and structs.
 
 VERSION or DATE: December 2024
 
-AUTHOR: Yuxin Zeng
+AUTHOR: Yuxin Zeng & Professors + Faculty
 
 USER INSTRUCTIONS: Run in terminal with the sushi.data file, and have fun!
 Two players is necessary for the game.
